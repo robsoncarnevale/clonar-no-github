@@ -1,6 +1,6 @@
 ## Star Wars Repo
 
-![Personagens StarWars](./starwars.png?w=250)
+![Personagens StarWars](./starwars.png?h=250)
 
 
 **Repositorio de exemplo do curso.**
