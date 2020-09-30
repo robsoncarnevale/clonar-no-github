@@ -1,6 +1,6 @@
 #Star Wars Repo
 
-![../starwars.png](Personagens StarWars)
+![Personagens StarWars](./starwars.png)
 
 
 Repositorio de exemplo do curso
